@@ -17,7 +17,7 @@ I enjoy building cool projects, learning new tools, and sharing what I create.
  ## 💡 About Me  
 - 👨‍💻 Coding python since: 2019
 - 🎲 Fun fact: While still in school I made the codes for 2 complex robots- Soul Sync and AURA, learning from AI. It is one of my greatest accomplishments.
-- 🎨 Love turning random ideas into Python projects
+- 🎨 Turtle was one of my first modules and is my python mascot!
   
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b7ea6c56-09e1-4248-8e8c-3b59490de0b9" />
 
