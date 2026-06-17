@@ -43,7 +43,7 @@ AURA recognises your face, holds a conversation, and runs on a futuristic
 animated interface with a glowing orb that pulses like a heartbeat.  
 Built entirely by students. No external technical help.
 
-👉 **[See AURA →](https://github.com/Byte-Razer/Humanoid-Bot)**
+👉 **[See AURA →](https://github.com/MohitSheth10/Humanoid-Bot)**
 
 ---
 
