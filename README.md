@@ -27,7 +27,7 @@ Unveiled in front of hundreds at our school's annual day. Featured in the press.
 Placed 2nd at Codeferno, an interschool coding competition,  
 as a 10th grader competing against 11th and 12th graders.
 
-🧮 **Coding Since Age 12**  
+🧮 **Coding Since Age 10**  
 Not as a hobby — as a tool to build real things.
 
 ---
